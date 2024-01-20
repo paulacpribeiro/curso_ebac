@@ -51,7 +51,8 @@ header li a {
 }
 
 .articles article img {
-    height: 250px
+    height: 250px;
+    width: 400px;
 }
 
 .articles article a {
